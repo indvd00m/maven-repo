@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Apr 24 20:26:13 MSK 2014
+commons-jpa-0.2.0.3.pom>=
+commons-jpa-0.2.0.3-tests.jar>=
+commons-jpa-0.2.0.3.jar>=
+commons-jpa-0.2.0.3-sources.jar>=
