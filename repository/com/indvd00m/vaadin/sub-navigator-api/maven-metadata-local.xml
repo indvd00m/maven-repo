@@ -3,10 +3,11 @@
   <groupId>com.indvd00m.vaadin</groupId>
   <artifactId>sub-navigator-api</artifactId>
   <versioning>
-    <release>0.9.0</release>
+    <release>0.9.1</release>
     <versions>
       <version>0.9.0</version>
+      <version>0.9.1</version>
     </versions>
-    <lastUpdated>20151122132515</lastUpdated>
+    <lastUpdated>20151123084302</lastUpdated>
   </versioning>
 </metadata>
