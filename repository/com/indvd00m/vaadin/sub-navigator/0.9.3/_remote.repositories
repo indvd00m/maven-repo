@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 24 18:33:05 MSK 2015
+sub-navigator-0.9.3.pom>=
+sub-navigator-0.9.3-sources.jar>=
+sub-navigator-0.9.3.jar>=
+sub-navigator-0.9.3-javadoc.jar>=
