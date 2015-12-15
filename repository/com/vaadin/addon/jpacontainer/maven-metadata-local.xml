@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.vaadin.addon</groupId>
+  <artifactId>jpacontainer</artifactId>
+  <versioning>
+    <release>3.3.0-indvd00m</release>
+    <versions>
+      <version>3.3.0-indvd00m</version>
+    </versions>
+    <lastUpdated>20151215231648</lastUpdated>
+  </versioning>
+</metadata>
