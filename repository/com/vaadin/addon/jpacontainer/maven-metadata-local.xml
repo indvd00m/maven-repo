@@ -3,10 +3,11 @@
   <groupId>com.vaadin.addon</groupId>
   <artifactId>jpacontainer</artifactId>
   <versioning>
-    <release>3.3.0-indvd00m</release>
+    <release>3.4.0-indvd00m</release>
     <versions>
       <version>3.3.0-indvd00m</version>
+      <version>3.4.0-indvd00m</version>
     </versions>
-    <lastUpdated>20151215231648</lastUpdated>
+    <lastUpdated>20151218163734</lastUpdated>
   </versioning>
 </metadata>
